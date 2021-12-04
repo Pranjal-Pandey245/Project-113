@@ -22,3 +22,7 @@ function draw(){
     circle(35,415,40);
 
 } 
+
+function take_snapshot(){
+    save('img.png')
+}
